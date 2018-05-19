@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "node lilly.test.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "coleman-liau": "^1.0.2",
+    "dictionary-en-us": "^2.0.0",
+    "keypress": "^0.2.1",
+    "lexed": "^1.0.10",
+    "nspell": "^2.0.1",
+    "sentiment": "^5.0.0",
+    "sentimeter": "^0.1.0"
+  }
+}
