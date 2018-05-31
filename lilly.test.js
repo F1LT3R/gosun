@@ -38,10 +38,10 @@ test('Remove range of items', t => {
   console.log(result)
 })
 
-// test('Init (root, para, sentence, selected)', t => {
-//   const result = lilly.init()
-//   console.log(result)
-// })
+test('Init (root, para, sentence, selected)', t => {
+  const result = lilly.init()
+  console.log(result)
+})
 
 run()
 
